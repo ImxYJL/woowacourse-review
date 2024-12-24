@@ -2,3 +2,4 @@ node_modules/
 dist/
 .vscode/
 .env
+packages/**/package-lock.json
