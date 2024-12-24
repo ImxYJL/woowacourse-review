@@ -1,0 +1,14 @@
+{
+  "name": "woowacourse-review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ImxYJL/woowacourse-review.git",
+  "author": "ImxYJL <allensain14@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ]
+  }
+}
